@@ -10,4 +10,4 @@ else:
     print("Your username contains more than or equal to 10 characters..")
     
 # ye condition ka part nhi h..
-print("code will terminated!")
+print("code will terminated!") 
