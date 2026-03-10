@@ -32,6 +32,3 @@ All the programs are written using **clean and beginner-friendly code** so that 
 - Command Line Interface (CLI)
 - Basic Python Libraries
 
----
-
-## 📂 Project Structure
