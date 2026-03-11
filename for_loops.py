@@ -41,15 +41,10 @@ for i in range (2,n):
 else:
     print("number is prime")
     
-# write a program to print multiplication table of a given number using while loop ..
+# write a program to print multiplication table of a n using for loop in reversed order ..
 n = int(input("Enter the number: "))
-for i in range (2,n):
-    if (n%i) == 0:
-        print("Number is not prime")
-        break
-else:
-    print("Number is prime")
-    
+for i in range (1,11):
+     print(f"{n} x {11-i} = {n*(11-i)}")
     
 """ For Loop with ELSE: 
                     An optional else can be used with a for loop if the code is to be executed when the loop exhausts ..
