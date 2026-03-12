@@ -22,7 +22,7 @@ print(f"The Factorial of this number is: {factorial(n)}")
             5 x 4 x Factorial(3)
             5 x 4 x 3 Factorial(2)
             5 x 4 x 3 x 2 Factorial(1)
-            5 x 4 x 3 x 2 x 1   -----> 120     """
+            5 x 4 x 3 x 2 x 1   -----> 120     """ 
             
             
 
