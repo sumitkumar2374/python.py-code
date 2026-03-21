@@ -16,11 +16,11 @@ The main goal of this repository is to strengthen my understanding of Python fun
 
 This repository includes different types of Python programs such as:
 
-- Beginner level Python scripts
-- Practice problems
-- Logic building exercises
-- Small automation scripts
-- Mini Python projects
+- Beginner level Python scripts.
+- Practice problems.
+- Logic building exercises.
+- Small automation scripts.
+- Mini Python projects.
 
 All the programs are written using **clean and beginner-friendly code** so that anyone learning Python can easily understand them.
 
@@ -29,6 +29,6 @@ All the programs are written using **clean and beginner-friendly code** so that 
 ## 🚀 Technologies Used
 
 - **Python 3**
-- Command Line Interface (CLI)
-- Basic Python Libraries
+- Command Line Interface (CLI).
+- Basic Python Libraries.
 
