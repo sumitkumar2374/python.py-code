@@ -26,9 +26,18 @@ All the programs are written using **clean and beginner-friendly code** so that 
 
 ---
 
+## Git Clone Command
+```bash
+git clone 
+```
+
 ## 🚀 Technologies Used
 
 - **Python 3**
 - Command Line Interface (CLI).
 - Basic Python Libraries.
+
+## 📌 Author
+
+**Mr Sumit Kumar**
 
