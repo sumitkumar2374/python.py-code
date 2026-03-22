@@ -28,7 +28,7 @@ All the programs are written using **clean and beginner-friendly code** so that 
 
 ## Git Clone Command
 ```bash
-git clone 
+git clone https://github.com/sumitkumar2374/python.py-code.git
 ```
 
 ## 🚀 Technologies Used
