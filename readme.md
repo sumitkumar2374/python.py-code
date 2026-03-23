@@ -14,7 +14,7 @@ The main goal of this repository is to strengthen my understanding of **Python f
 
 ## 📌 About This Repository
 
-This repository includes different types of Python programs such as:
+This repository includes different types of **Python programs** such as:
 
 - Beginner level Python scripts.
 - Practice problems.
