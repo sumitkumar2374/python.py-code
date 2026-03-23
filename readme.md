@@ -34,10 +34,10 @@ git clone https://github.com/sumitkumar2374/python.py-code.git
 ## 🚀 Technologies Used
 
 - **Python 3**
-- Command Line Interface (CLI).
-- Basic Python Libraries.
+- **Command Line Interface (CLI)**.
+- **Basic Python Libraries**.
 
 ## 📌 Author
 
-**Mr Sumit Kumar**
+Created by **Mr Sumit Kumar**
 
