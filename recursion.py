@@ -15,6 +15,7 @@ def factorial(n):
         return n*factorial(n-1)
 print(f"The Factorial of this number is: {factorial(n)}")
 
+# Here are the workflow for factorials in recursion
 """     This work as follows:
             
             Factorial(5)
