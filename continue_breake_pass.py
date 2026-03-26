@@ -26,4 +26,6 @@ l = [1,7,8]
 for item in l:
     pass        # ye likhne se hoga kya ki agr ye code hme yaha tak bhi chor ke apna dusra code ko age bada skte h.
                 # without any error ke .. 
-    
+
+# ye code loop se bahr h ..
+print("Code will ending ..")
