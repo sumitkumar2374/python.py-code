@@ -48,3 +48,5 @@ print(L1)
 # agr hme pop() hua value return krwana h ..
 print(L1.pop(2))
 print(L1) 
+
+print("Here is the complete code for lists in python")
