@@ -17,7 +17,7 @@ elif(input_age<0):
 else:
     print("You are below the age of consent")
     
-# out from condition(s) ..
+# out from if-elif-else condition(s) ..
 print("Now terminate code for condition's")
 
     
