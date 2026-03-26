@@ -12,9 +12,11 @@ b = int(input("enter number 2 : "))
 print("number a is : ", a)
 
 # print the number 'b'
-print("number b is : ",b)
+print("number b is : ", b)
 
 # print the sum of a + b 
-print("sum is : ",a + b)
+print("sum is : ", a + b)
+
+print("Thank u")
 
 
