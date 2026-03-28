@@ -1,7 +1,6 @@
 # arithmetic operators
 # example's :- + , - , * , / etc..
 
-
 # assign value 7 in 'a'
 a = 7
 
