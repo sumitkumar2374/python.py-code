@@ -47,3 +47,5 @@ print(multi)        # Return 77
 print(type(val1))   # Type of val1 is --> str ..
 print(type(val2))   # Type of val2 is --> int ..
 
+print("Code will end ..")
+
