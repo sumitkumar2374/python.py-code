@@ -40,3 +40,10 @@ print(f)
 # in not operator has only one operand's
 print(not(False)) # using not operatior , isme result's ko invert kiya jata h or isme single operand's hote h..
 
+# Multiplication of 'str' and 'int' ..
+val1 = "7"
+val2 = 2
+multi = val1*val2
+print(multi)
+print(type(val1))
+print(type(val2))
