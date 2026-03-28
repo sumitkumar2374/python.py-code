@@ -40,9 +40,10 @@ print(f)
 print(not(False)) # using not operatior , isme result's ko invert kiya jata h or isme single operand's hote h..
 
 # Multiplication of 'str' and 'int' ..
-val1 = "7"
-val2 = 2
-multi = val1*val2
-print(multi)
-print(type(val1))
-print(type(val2))
+val1 = "7"          # val1 --> Is a str ..
+val2 = 2            # val2 --> Is a int ..
+multi = val1*val2   # Return 77
+print(multi)        # Return 77
+print(type(val1))   # Type of val1 is --> str ..
+print(type(val2))   # Type of val2 is --> int ..
+
