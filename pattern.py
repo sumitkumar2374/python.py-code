@@ -4,7 +4,8 @@
                    ***
                   ***** for n = 3 
 """
-n = int(input("Enter the number: "))  # user input in the form of number ..
+ # user input in the form of number ..
+n = int(input("Enter the number: ")) 
 for i in range (1,n+1):               # range from 1 to n tak ..
     print(" " * (n-i), end = " ")     # ye wala space ke liye h ..
     print("*" * (2*n-i), end = " ")   # ye wala star ke liye h ..
@@ -19,6 +20,7 @@ for i in range (1,n+1):               # range from 1 to n tak ..
                     ****
                     ***** for user input ..
 """
+ # user input in the form of number ..
 n = int(input("Enter the number: "))
 for i in range (1,n+1):
     print("*"*i, end = " ")
@@ -35,6 +37,7 @@ for i in range (1,n+1):
                     *       *
                     * * * * *  isme basically itna gap nhi rahega star ke bich me mai ya visible ke liye dekha rha hu ..
 """
+ # user input in the form of number ..
 n = int(input("Enter the number: "))
 for i in range (1,n+1):
     if (i == 1 or i == n):
@@ -44,7 +47,8 @@ for i in range (1,n+1):
         print(" "* (n-2), end = " ")
         print ("*", end = " ")
     print(" ")
-    
+
+# ye code ke bahr wala code h!
 print("code will terminate ..")
     
 
