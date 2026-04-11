@@ -79,3 +79,5 @@ for i in range (0,100,4):   # 4 ka jum hoga 0 to 100 tak me jitna bhi output ret
     print(i)
     
 # output: 0 4 8 12 etc..
+
+print("code will ending ..")

@@ -64,5 +64,6 @@ def goodDay (name,ending = "Thank You"):
 goodDay("Harry","Thanks")
 goodDay("Rohan")          # isme by default parameter add ho jayega!
 
+# ye line function ke bahr wali line h!
 print("Here are the full theory and code for functions in python!")
     
