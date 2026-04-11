@@ -15,6 +15,7 @@ d = False # d is a boolean variable
 # None
 e = None # e is a none type variable 
 
-
+# Print any datatype!
+print(a)
  
  
