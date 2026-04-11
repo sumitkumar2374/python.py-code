@@ -23,5 +23,8 @@ print(single_quote)
 slash_use = "we are use \\ for understanding!"
 print(slash_use)
 
+# ye code se bahar ka line h jo end me aata h!
+print("code will ending..")
+
 
 

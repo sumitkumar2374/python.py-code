@@ -39,3 +39,6 @@ print(a)
 remov_value = a.pop("marks")
 print(remov_value)  # 95
 print(a) # ye marks wala section remove kr dega ..
+
+# ye code ke last me aayega!
+print("code will ending..")
