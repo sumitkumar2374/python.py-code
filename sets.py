@@ -42,4 +42,7 @@ set1 = {1,2,3}
 set2 = {3,4,5}
 print({1,2}.issubset(set1))
 
+# ye ending me aayega!
+print("here are full concept of sets ..")
+
 

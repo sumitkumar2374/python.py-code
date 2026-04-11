@@ -54,6 +54,9 @@ str_count = "abracadabra"
 counted_str = str_count.count("c")
 print(counted_str)
 
+# ye end me aayega!
+print("here are the full concept of string..")
+
 
 
 
