@@ -36,4 +36,5 @@ print(type(True))
 # None
 print(type(None))
 
- 
+# yaha tak me function ka code khatam h!
+print ("here are the complete function theory!")
