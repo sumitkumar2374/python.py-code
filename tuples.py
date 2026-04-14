@@ -58,3 +58,5 @@ my_tuple = (1,2,3,4)
 a,b,c = my_tuple
 print(a,b,c)
 
+# ye sab yaha tak me khatam h !
+print ("here are the full concepts of tuples!")

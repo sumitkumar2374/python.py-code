@@ -46,3 +46,6 @@ print(word[1:6:2])  # 'mzn' print hoga [me jo 2 h wo skip ya jump ke liye hota h
 # slicing with skip ka example h ..
 alphabets = "abcdefghijklmopqrstuvwxyz"
 print(alphabets[1:9:4]) # 'bf' print hoga ..
+
+# ye rha full concepts of strings ..
+print ("now string is completed!")
