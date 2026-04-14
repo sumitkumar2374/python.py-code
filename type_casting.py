@@ -47,3 +47,4 @@ y = list(x)  # 'str' --> 'list'
 print(y)     # ['h','e','l','l','o']
 
 # here are the complete explaination of type_casting ..
+print ("here are the full concepts of type casting!")
