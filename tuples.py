@@ -2,7 +2,7 @@
 
 # empty tuple's ..
 a = ()
-print(a)
+print(a,type(a))
 
 # tuple with only one element needs a coma ..
 a = (5,)
@@ -15,12 +15,12 @@ print(type(a))  # ye code pta krta h ki kon sa type ka h!
 
 # Tuples Method's ..
 # 1 --> a.count(): will return of times 1 occur in a ..
-a.count(1)
-print(a)
+cout = a.count(5)
+print(cout)
 
 # 2 --> a.index(): will return the index of first occur in a ..
-a.index(3)
-print(a)
+inde = a.index(3)
+print(inde)
 
 # Operation in Tuples ..
 # 1. Concatenation: tuple can be concatenation using the '+' operation.
@@ -55,8 +55,8 @@ print(sliced)
 
 # 7. Unpaking: tuples can be unpacking into individual variable..
 my_tuple = (1,2,3,4)
-a,b,c = my_tuple
-print(a,b,c)
+a,b,c,d = my_tuple
+print(a,b,c,d)
 
 # ye sab yaha tak me khatam h !
 print ("here are the full concepts of tuples!")
