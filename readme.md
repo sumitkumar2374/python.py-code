@@ -40,15 +40,3 @@ git clone https://github.com/sumitkumar2374/python.py-code.git
 ## 📌 Author
 
 Created by **Mr Sumit Kumar**
-
----
-
-# Here are the commit list for contribution graph
-
-- 1st/2nd commit list 
-- 3rd commit list is here 
-- 4th commit list is in main
-- 5th commit list is the readme
-- 6th commit list is the changes 
-- 7th commit list is the final changes 
-
