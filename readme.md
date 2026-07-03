@@ -2,6 +2,7 @@
 
 - 1st/2nd commit
 - 3rd commit list is the attaching some file in py
+- 4th commit list is preview
 
 ---
 
