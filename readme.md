@@ -1,11 +1,3 @@
-# Hree are the commit list for contribution graph
-
-- 1st/2nd commit
-- 3rd commit list is the attaching some file in py
-- 4th commit list is preview
-
----
-
 # 🐍 Python Projects
 A comprehensive collection of **Python programs** and projects showcasing practical solutions, coding best practices, and ``` real-world``` applications.
 
