@@ -1,12 +1,3 @@
-# Here are the commit list for contribution graph
-
-- 1st/2nd commit
-- 3rd commit list is some attaching some imp file in main
-- 4th commit list preview and check
-
----
-
-
 # 🐍 Python Projects
 A comprehensive collection of **Python programs** and projects showcasing practical solutions, coding best practices, and ``` real-world``` applications.
 
