@@ -1,5 +1,7 @@
 # Here are the commits list for contribution's graph
 
+- 1st/2nd commit list add
+
 # 🐍 Python Projects
 A comprehensive collection of **Python programs** and projects showcasing practical solutions, coding best practices, and ``` real-world``` applications.
 
