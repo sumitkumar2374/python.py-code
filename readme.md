@@ -93,4 +93,4 @@ git clone https://github.com/sumitkumar2374/python.py-code.git
 
 ## 📌 Author
 
-Created by **Mr Sumit Kumar**
+Created by ** Sumit Kumar **
