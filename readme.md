@@ -52,7 +52,7 @@ flowchart TD
 Welcome to my **Python Projects Repository**!  
 This repository contains a collection of **Python programs** and mini projects that I built while learning and practicing **Python programming**.
 
-The main goal of this repository is to strengthen my understanding of **Python fundamentals, problem-solving skills, and ```real-world ``` programming concepts**.
+The main goal of this `repository` is to strengthen my understanding of **Python fundamentals, problem-solving skills, and ```real-world ``` programming concepts**.
 
 ---
 
@@ -66,7 +66,7 @@ This repository includes different types of **Python programs** such as:
 - Small automation scripts.
 - Mini Python ```projects.```
 
-All the programs are written using **clean and beginner-friendly code** so that anyone learning Python can easily understand them.
+All the programs are written using **clean and beginner-friendly code** so that anyone learning `Python `can easily understand them.
 
 ---
 
