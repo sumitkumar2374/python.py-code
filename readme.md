@@ -66,7 +66,7 @@ This repository includes different types of **Python programs** such as:
 - Small automation scripts.
 - Mini Python ```projects.```
 
-All the programs are written using **clean and beginner-friendly code** so that anyone learning `Python `can easily understand them.
+All the programs are written using `clean` and `beginner-friendly` **code** so that anyone learning `Python `can easily understand them.
 
 ---
 
