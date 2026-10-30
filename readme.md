@@ -79,7 +79,7 @@ git clone https://github.com/sumitkumar2374/python.py-code.git
 
 - **Python 3**
 - Command Line ```Interface (CLI).```
-- **Basic Python Libraries**.
+- Basic Python `Libraries`.
 
 ## 📌 Author
 
