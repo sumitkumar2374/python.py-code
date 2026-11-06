@@ -1,11 +1,3 @@
-# Here are the commit list for contribution graph 
-
-- 1st/2nd commit
-- 3rd commit list is the attach some file
-- 4th commit list is the preview
-- 5th commit list is the check
-- 6th commit list is the update 
-
 # 🐍 Python Projects
 A comprehensive collection of **Python programs** and projects showcasing practical ```solutions```, coding best practices, and ``` real-world``` applications.
 
