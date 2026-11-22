@@ -1,10 +1,3 @@
-# Here are the commit list for contribution graph 
-
-- 1st/2nd commit list numbering
-- 3rd commit list for aadding some text
-- 4th commit list to preview
-- 5th commit list to check 
-
 # 🐍 Python Projects
 A comprehensive collection of **Python programs** and projects showcasing practical ```solutions```, coding best practices, and ``` real-world``` applications.
 
